@@ -97,9 +97,10 @@ i.fa-thumbtack {
   background: linear-gradient(45deg, #359, #07D);
   box-shadow: 0 4px 30px #26A8;
 }
-.card-social .twitter {
+.card-social .tiktok {
   background: linear-gradient(45deg, #1AF, #07C);
   box-shadow: 0 4px 30px #17D8;
+  color: black;
 }
 .card-social .instagram {
   background: linear-gradient(45deg, #45F, #F11);
